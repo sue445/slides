@@ -4,6 +4,7 @@
 ## SaaS accounts
 * https://speakerdeck.com/sue445
 * https://www.slideshare.net/sue445
+* https://qiita.com/sue445
 
 ## 2018年
 * 2018/02/26 Meguro.rb#12: [ChatWorkMentionTaskを作った #megurorb](https://sue445.github.io/megurorb-12/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://sue445.github.io/megurorb-12/%23/)](http://b.hatena.ne.jp/entry/https://sue445.github.io/megurorb-12/#/)
@@ -15,6 +16,7 @@
 * 2017/03/02 GitLab Meetup Tokyo #1: [ここがすごいよGitLab CI #gitlabjp](https://sue445.gitlab.io/gitlab-meetup-tokyo-1/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://sue445.gitlab.io/gitlab-meetup-tokyo-1/%23/)](http://b.hatena.ne.jp/entry/https://sue445.gitlab.io/gitlab-meetup-tokyo-1/#/)
 
 ## 2016年
+* 2016/12/01 表参道.rb #17: [mountable engineで管理画面を作る - Qiita](https://qiita.com/sue445/items/1534515dd7520da6fd1b) [![hatebu](http://b.hatena.ne.jp/entry/image/https://qiita.com/sue445/items/1534515dd7520da6fd1b)](http://b.hatena.ne.jp/entry/https://qiita.com/sue445/items/1534515dd7520da6fd1b)
 * 2016/12/01 ドリコム AdventCalendar 2016: [ドリコムのインフラCI](https://www.slideshare.net/sue445/ci-69333049) [![hatebu](http://b.hatena.ne.jp/entry/image/https://www.slideshare.net/sue445/ci-69333049)](http://b.hatena.ne.jp/entry/https://www.slideshare.net/sue445/ci-69333049)
 * 2016/08/10 第9回Jenkins勉強会: [Jenkinsを使った複数クラウドへのインフラCI #jenkinsstudy](https://www.slideshare.net/sue445/jenkinsci-jenkinsstudy) [![hatebu](http://b.hatena.ne.jp/entry/image/https://www.slideshare.net/sue445/jenkinsci-jenkinsstudy)](http://b.hatena.ne.jp/entry/https://www.slideshare.net/sue445/jenkinsci-jenkinsstudy)
 * 2016/04/07 表参道.rb #10: [itamaeプラグインを本気でCIした #omotesandorb](http://sue445.github.io/omotesandorb-10/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/http://sue445.github.io/omotesandorb-10/%23/)](http://b.hatena.ne.jp/entry/http://sue445.github.io/omotesandorb-10/#/)
@@ -25,6 +27,7 @@
 * 2015/10/01 表参道.rb #5: [【今月のgem】index_shotgunを作った #omotesandorb](http://sue445.github.io/omotesandorb-05/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/http://sue445.github.io/omotesandorb-05/%23/)](http://b.hatena.ne.jp/entry/http://sue445.github.io/omotesandorb-05/#/)
 * 2015/09/03 表参道.rb #4: [謎のトラブルでcapstrano3移行に失敗した話 #omotesandorb](http://sue445.github.io/omotesandorb-04/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/http://sue445.github.io/omotesandorb-04/%23/)](http://b.hatena.ne.jp/entry/http://sue445.github.io/omotesandorb-04/#/)
 * 2015/06/21 Agile Samurai Basecamp 2015.06: [￼週刊TDD(社内TDD勉強会) 紹介 #agilesamurai](https://www.slideshare.net/sue445/weekly-tdd) [![hatebu](http://b.hatena.ne.jp/entry/image/https://www.slideshare.net/sue445/weekly-tdd)](http://b.hatena.ne.jp/entry/https://www.slideshare.net/sue445/weekly-tdd)
+* 2015/06/23 社内LT大会: [今まで作ったgemの話（社外公開版） - Qiita](https://qiita.com/sue445/items/39cea9b39bb95c5b163c) [![hatebu](http://b.hatena.ne.jp/entry/image/https://qiita.com/sue445/items/39cea9b39bb95c5b163c)](http://b.hatena.ne.jp/entry/https://qiita.com/sue445/items/39cea9b39bb95c5b163c)
 * 2015/06/17 Shibuya.rb: [複数認証を例にしたポリモーフィックとSTIの設計紹介 #shibuyarb](http://sue445.github.io/shibuyarb-20150617/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/http://sue445.github.io/shibuyarb-20150617/#/)](http://b.hatena.ne.jp/entry/http://sue445.github.io/shibuyarb-20150617/#/)
 * 2015/05/20 Shibuya.rb: [gemの複数バージョンカジュアルテスト #shibuyarb](https://www.slideshare.net/sue445/gem-shibuyarb) [![hatebu](http://b.hatena.ne.jp/entry/image/https://www.slideshare.net/sue445/gem-shibuyarb)](http://b.hatena.ne.jp/entry/https://www.slideshare.net/sue445/gem-shibuyarb)
 * 2015/05/13 第一回 目黒スタートアップ勉強会(仮): [プリキュアのRuby実装の紹介 (2015 ver) #MeguroStartup](https://www.slideshare.net/sue445/ruby-2015-ver) [![hatebu](http://b.hatena.ne.jp/entry/image/https://www.slideshare.net/sue445/ruby-2015-ver)](http://b.hatena.ne.jp/entry/https://www.slideshare.net/sue445/ruby-2015-ver)
