@@ -7,6 +7,7 @@
 * https://qiita.com/sue445
 
 ## 2018年
+* 2018/03/25 Rails Developers Meetup 2018: Day 2: [ChatWorkMentionTaskを作った \#railsdm \#rdm2018A](https://sue445.github.io/rails-developers-meetup-2018/#/)  [![hatebu](http://b.hatena.ne.jp/entry/image/https://sue445.github.io/rails-developers-meetup-2018/%23/)](http://b.hatena.ne.jp/entry/https://sue445.github.io/rails-developers-meetup-2018/#/)
 * 2018/02/26 Meguro.rb#12: [ChatWorkMentionTaskを作った #megurorb](https://sue445.github.io/megurorb-12/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://sue445.github.io/megurorb-12/%23/)](http://b.hatena.ne.jp/entry/https://sue445.github.io/megurorb-12/#/)
 
 ## 2017年
