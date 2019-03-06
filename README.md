@@ -7,7 +7,8 @@
 * https://qiita.com/sue445
 
 ## 2019年
-* 2019/01/30 第1回CircleCI ユーザーコミュニティミートアップ [Orbsベストプラクティス #circlecijp](https://sue445.github.io/circleci-user-community-meetup-01/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://sue445.github.io/circleci-user-community-meetup-01/%23/)](http://b.hatena.ne.jp/entry/https://sue445.github.io/circleci-user-community-meetup-01/%23/)
+* 2019/03/05 [スペックを上げてクラウドで殴るCI / pixiv TECH SALON \#pixivTECHSALON \- Speaker Deck](https://speakerdeck.com/sue445/pixiv-tech-salon-number-pixivtechsalon)
+* 2019/01/30 第1回CircleCI ユーザーコミュニティミートアップ [Orbsベストプラクティス #circlecijp](https://sue445.github.io/circleci-user-community-meetup-01/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://sue445.github.io/circleci-user-community-meetup-01/%23/)](http://b.hatena.ne.jp/entry/https://sue445.github.io/circleci-user-community-meetup-01/%23/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/pixiv-tech-salon-number-pixivtechsalon)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/pixiv-tech-salon-number-pixivtechsalon)
 
 ## 2018年
 * 2018/11/28 Shinjuku.rb #67 [スライド/2018/11/28/Shinjuku.rb #67/CircleCIのOrbsで設定ファイルを超絶リファクタリングする #shinjukurb - esa-pages.io](https://esa-pages.io/p/sharing/8985/posts/53/1044977b5fb3354eb762-slides.html#/)
