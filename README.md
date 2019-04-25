@@ -7,6 +7,7 @@
 * https://qiita.com/sue445
 
 ## 2019年
+* 2019/04/24 GitLab Meetup Tokyo #16: 新年度応援 [スライド/2019/04/24/GitLab Meetup Tokyo \#16/pixiv TECH SALONの続き \#gitlabjp \- esa\-pages\.io](https://esa-pages.io/p/sharing/8985/posts/109/88cafdb00f98f7c02b0a-slides.html#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://esa-pages.io/p/sharing/8985/posts/109/88cafdb00f98f7c02b0a-slides.html%23/)](http://b.hatena.ne.jp/entry/https://esa-pages.io/p/sharing/8985/posts/109/88cafdb00f98f7c02b0a-slides.html%23/)
 * 2019/04/20 RubyKaigi 2019 [Best practices in web API client development #RubyKaigi - Speaker Deck](https://speakerdeck.com/sue445/best-practices-in-web-api-client-development-number-rubykaigi) [![hatebu](http://b.hatena.ne.jp/entry/image/https://speakerdeck.com/sue445/best-practices-in-web-api-client-development-number-rubykaigi)](http://b.hatena.ne.jp/entry/https://speakerdeck.com/sue445/best-practices-in-web-api-client-development-number-rubykaigi)
 * 2019/03/05 pixiv TECH SALON [スペックを上げてクラウドで殴るCI / pixiv TECH SALON \#pixivTECHSALON \- Speaker Deck](https://speakerdeck.com/sue445/pixiv-tech-salon-number-pixivtechsalon)
 * 2019/01/30 第1回CircleCI ユーザーコミュニティミートアップ [Orbsベストプラクティス #circlecijp](https://sue445.github.io/circleci-user-community-meetup-01/#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://sue445.github.io/circleci-user-community-meetup-01/%23/)](http://b.hatena.ne.jp/entry/https://sue445.github.io/circleci-user-community-meetup-01/%23/)
