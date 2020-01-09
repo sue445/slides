@@ -6,6 +6,9 @@
 * https://www.slideshare.net/sue445
 * https://qiita.com/sue445
 
+## 2020年
+* 2020/01/09 [スライド/2020/01/09/Omotesando.rb #54/bundle update PRの読み方 #omotesandorb - esa-pages.io](https://esa-pages.io/p/sharing/8985/posts/202/5544484d73b2b3828ccc-slides.html#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://esa-pages.io/p/sharing/8985/posts/202/5544484d73b2b3828ccc-slides.html%23/)](http://b.hatena.ne.jp/entry/https://esa-pages.io/p/sharing/8985/posts/202/5544484d73b2b3828ccc-slides.html%23/)
+
 ## 2019年
 * 2019/09/26 [スライド/2019/09/26/Rails Developers Beer Bash 〜Railsのトレンドとこれから〜/GitHub Actionsで複数DBテスト #railsbeerbash - esa-pages.io](https://esa-pages.io/p/sharing/8985/posts/148/23e2b791703d4701a893-slides.html#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://esa-pages.io/p/sharing/8985/posts/148/23e2b791703d4701a893-slides.html%23/)](http://b.hatena.ne.jp/entry/https://esa-pages.io/p/sharing/8985/posts/148/23e2b791703d4701a893-slides.html%23/)
 * 2019/07/21 [スライド/2019/07/21/プリッカソン #8/Slackにemoijが登録された時に通知するアプリを作った #prickathon - esa-pages.io](https://esa-pages.io/p/sharing/8985/posts/134/a3a87ed169befb54c48c-slides.html#/) [![hatebu](http://b.hatena.ne.jp/entry/image/https://esa-pages.io/p/sharing/8985/posts/134/a3a87ed169befb54c48c-slides.html%23/)](http://b.hatena.ne.jp/entry/https://esa-pages.io/p/sharing/8985/posts/134/a3a87ed169befb54c48c-slides.html%23/)
